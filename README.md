@@ -37,5 +37,5 @@ https://criolo.dev
 <hr/>
 <p align='center'>
     <a href="https://twitter.com/carmelo_riolo"><img height="30" src="./imgs/twitter.png"></a>&nbsp;&nbsp;
-   <a href="https://www.linkedin.com/in/carmelo-riolo-628690105/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
+    <a href="https://www.linkedin.com/in/carmelo-riolo-628690105/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 </p>
