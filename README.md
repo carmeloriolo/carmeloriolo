@@ -16,6 +16,12 @@ Actually working @ Subito.it (Adevinta IT 🇮🇹)
 
 </p>
 
+```
+$ uname -a
+I am a professional DevOps Engineer actually with 4+ years of experience within the field, mainly interested in the world of Site Realiability Engineering and Cloud infrastructures.
+````
+
+
 **Resources**
 
 
