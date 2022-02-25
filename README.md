@@ -11,12 +11,14 @@ carmelo.riolo
 🐱‍💻 My name is Carmelo Riolo and I am glad to see you here 😀
 
 ☁️ DevOps Engineer / SRE 💻
+    
 Actually working @ Subito.it (Adevinta IT 🇮🇹)
 
 </p>
 
 **Resources**
 <a href="https://github.com/carmeloriolo/.dotfiles">.dotfiles</a>&nbsp;&nbsp;
+
 **Domain**
 https://criolo.dev
 
