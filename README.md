@@ -1,4 +1,3 @@
-[![Header](./imgs/header.jpeg)](https://criolo.dev/)
 ### <p align="center">Hi there! 👋</p>
 
 <p align="center"> 
@@ -26,11 +25,14 @@ I am a professional DevOps Engineer actually with 4+ years of experience within 
 
 
 <a href="https://github.com/carmeloriolo/.dotfiles">.dotfiles</a>&nbsp;&nbsp;
+<a href="https://github.com/carmeloriolo/vagrant-bootstrap">vagrant-bootstrap</a>&nbsp;&nbsp;
+
 
 **Projects**
 
 
 <a href="https://github.com/carmeloriolo/ec2ti">ec2ti</a>&nbsp;&nbsp;
+<a href="https://github.com/carmeloriolo/k8s-pi">k8s-pi</a>&nbsp;&nbsp;
 
 
 **Domain**
