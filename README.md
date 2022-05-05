@@ -23,22 +23,18 @@ I am a professional DevOps Engineer actually with 4+ years of experience within 
 
 **Resources**
 
-
-<a href="https://github.com/carmeloriolo/.dotfiles">.dotfiles</a>&nbsp;&nbsp;
-<a href="https://github.com/carmeloriolo/vagrant-bootstrap">vagrant-bootstrap</a>&nbsp;&nbsp;
-
+<a href="https://github.com/carmeloriolo/my-brewfile">my-brewfile</a>&nbsp;&nbsp;
+| <a href="https://github.com/carmeloriolo/.dotfiles">.dotfiles</a>&nbsp;&nbsp;
+| <a href="https://github.com/carmeloriolo/vagrant-bootstrap">vagrant-bootstrap</a>&nbsp;&nbsp;
 
 **Projects**
 
-
-<a href="https://github.com/carmeloriolo/ec2ti">ec2ti</a>&nbsp;&nbsp;
-<a href="https://github.com/carmeloriolo/k8s-pi">k8s-pi</a>&nbsp;&nbsp;
-
-
-**Domain**
+| <a href="https://github.com/carmeloriolo/ec2ti">ec2ti</a>&nbsp;&nbsp;
+| <a href="https://github.com/carmeloriolo/k8s-pi">k8s-pi</a>&nbsp;&nbsp;
 
 
-https://criolo.dev
+**Domains**
+* https://criolo.dev
 
 <p align='center'>
     <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a">
