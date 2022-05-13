@@ -1,3 +1,9 @@
+<p align='left'>
+    <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a">
+    <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a">
+    <img src="https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a">
+</p>
+
 ### <p align="left">Hi there! 👋</p>
 
 <p align="left"> 
