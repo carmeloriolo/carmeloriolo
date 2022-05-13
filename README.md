@@ -1,24 +1,9 @@
-### <p align="center">Hi there! 👋</p>
+### <p align="left">Hi there! 👋</p>
 
-<p align="center"> 
-
-```shell
-$ whoami              
-carmelo.riolo
-```
-
-🐱‍💻 My name is Carmelo Riolo and I am glad to see you here 😀
-
-☁️ DevOps Engineer / SRE 💻
-    
-Actually working @ Subito.it (Adevinta IT 🇮🇹)
-
+<p align="left"> 
+    My name is Carmelo Riolo and I am a Software Engineer interested in DevOps, Site Realiability Engineering and Cloud infrastructures.
+    Actually working @ Subito.it (Adevinta IT 🇮🇹)
 </p>
-
-```
-$ uname -a
-I am a professional DevOps Engineer actually with 4+ years of experience within the field, mainly interested in the world of Site Realiability Engineering and Cloud infrastructures.
-````
 
 
 **Resources**
@@ -31,18 +16,6 @@ I am a professional DevOps Engineer actually with 4+ years of experience within 
 
 | <a href="https://github.com/carmeloriolo/ec2ti">ec2ti</a>&nbsp;&nbsp;
 | <a href="https://github.com/carmeloriolo/k8s-pi">k8s-pi</a>&nbsp;&nbsp;
-
-
-**Domains**
-* https://criolo.dev
-
-<p align='center'>
-    <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a">
-    <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a">
-    <img src="https://img.shields.io/badge/Code-Golang-informational?style=flat&logo=go&logoColor=white&color=2bbc8a">
-</p>
-
-
 
 <hr/>
 <p align='center'>
