@@ -14,15 +14,15 @@ Actually working @ Subito.it (Adevinta IT 🇮🇹)
 
 **Resources**
 
-<a href="https://github.com/carmeloriolo/my-brewfile">my-brewfile</a>&nbsp;&nbsp;
-| <a href="https://github.com/carmeloriolo/.dotfiles">.dotfiles</a>&nbsp;&nbsp;
-| <a href="https://github.com/carmeloriolo/vagrant-bootstrap">vagrant-bootstrap</a>&nbsp;&nbsp;
+⚡<a href="https://github.com/carmeloriolo/my-brewfile">my-brewfile</a>&nbsp;&nbsp;
+⚡<a href="https://github.com/carmeloriolo/.dotfiles">.dotfiles</a>&nbsp;&nbsp;
+⚡<a href="https://github.com/carmeloriolo/vagrant-bootstrap">vagrant-bootstrap</a>&nbsp;&nbsp;
 
 **Projects**
 
-| <a href="https://github.com/carmeloriolo/ec2ti">ec2ti</a>&nbsp;&nbsp;
-| <a href="https://github.com/carmeloriolo/k8s-pi">k8s-pi</a>&nbsp;&nbsp;
-| <a href="https://github.com/carmeloriolo/ebiten-pong">pong</a>&nbsp;&nbsp;
+⚡<a href="https://github.com/carmeloriolo/ec2ti">ec2ti</a>&nbsp;&nbsp;
+⚡<a href="https://github.com/carmeloriolo/k8s-pi">k8s-pi</a>&nbsp;&nbsp;
+⚡<a href="https://github.com/carmeloriolo/ebiten-pong">pong</a>&nbsp;&nbsp;
 
 
 <hr/>
