@@ -12,6 +12,8 @@ Actually working @ Subito.it (Adevinta IT 🇮🇹)
 
 <hr/>
 
+![Carmelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=carmeloriolo&show_icons=true&theme=tokyonight)
+
 <a href="https://twitter.com/carmelo_riolo"><img height="30" src="./imgs/twitter.png"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/carmelo-riolo-628690105/"><img height="30" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/linkedin.png?raw=true"></a>
 
