@@ -54,3 +54,5 @@ My name is Carmelo Riolo and I am a Software Engineer interested in DevOps, Site
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carmeloriolo&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>
+
+GPG Fingerprint: **681BC1CE41C04E0B4D5FF08ED41D4CE08A9E54DB**
